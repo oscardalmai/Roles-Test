@@ -1,4 +1,4 @@
 ---
 # tasks file for Role1/role1
 - debug:
-    masg: This task is from Role1
+    msg: This task is from Role1
